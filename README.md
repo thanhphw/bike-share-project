@@ -1,22 +1,19 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
+### BikeShare Data Analysis
 
 ### Date created
-Include the date you created this project and README file.
-
-
-### Project Title
-Replace the Project Title
-
+August 26, 2024
 
 ### Description
-Describe what your project is about and what it does
-
+This project analyzes US bikeshare data from three major cities: Chicago, New York City, and Washington. Users can filter the data by city, month, and day of the week to explore different statistics, such as the most common times of travel, the most popular stations, trip duration statistics, and user demographics. The project also includes an option to display raw data in increments of five rows for deeper inspection.
 
 ### Files used
-Include the files used
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
+### Why the Project is Useful
+This project provides insights into bikeshare usage patterns, helping to understand how different factors, such as time of day or user demographics, influence bikeshare trends. This information can be valuable for city planners, bikeshare companies, and users interested in optimizing their experience..
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+- Udacity
+- PhuongTT47
